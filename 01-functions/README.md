@@ -10,6 +10,7 @@ This activity aims to demonstrate how we can use functions
 in R to make our code more reproducible and modular. We will
 write a function to calculate growing degree days. For this,
 we will use this formula:
+
 $$\frac{(max.temp + min.temp)}{2} - base.temp$$
 
 We will start with a very simple function and add complexity
