@@ -120,4 +120,5 @@ plot(gdd1, type = 'l')
 ## To do:
 ## show example with base temp = 15
 ## add argument for "planting date"
+## add a check that arguments are of the same length
 
