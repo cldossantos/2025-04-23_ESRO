@@ -15,3 +15,9 @@ will build an R package together. (20 minutes).
    included in the R package
 [pacu](https://github.com/cldossantos/pacu). (20
 minutes)
+
+### note about the time
+
+even though this workshop/presentation was planned
+for an hour-long session, it is best delivered
+over a two hour period
